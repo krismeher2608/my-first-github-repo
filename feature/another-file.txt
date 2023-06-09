@@ -1,1 +1,3 @@
 Just another File in Feature Folder
+
+This file has been changed locally
