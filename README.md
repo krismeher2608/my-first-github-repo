@@ -1,5 +1,4 @@
 # my-first-github-repo
 First Github Repo
 
-
-Updated README.md in local Repository.
+Merged manually during the conflicts resolution
